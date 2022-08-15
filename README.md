@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jemi2k
+- 👋 Hi, I’m Ermias
 - 👀 I’m interested in blockchain and web 3.0 development 
 - 🌱 I’m currently learning computer engineerning at AASTU 
 - 💞️ I’m looking to collaborate with anyone, interested in blockchain.
