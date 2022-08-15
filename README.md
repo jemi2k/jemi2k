@@ -2,7 +2,7 @@
 - 👀 I’m interested in blockchain and web 3.0 development 
 - 🌱 I’m currently learning computer engineerning at AASTU 
 - 💞️ I’m looking to collaborate with anyone, interested in blockchain.
-- 📫 How to reach me jermijwll@gmail.com | +251949428860
+- 📫 How to reach me jermijwll@gmail.com  +251-949-428-860
 
 <!---
 jemi2k/jemi2k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
