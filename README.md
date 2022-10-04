@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Ermias
+- 👋 Hi, I’m Ermias. I am a web3.0 developer working before as a frontend developer.
 - 👀 I’m interested in blockchain and web 3.0 development 
 - 🌱 I’m currently learning computer engineerning at AASTU 
-- 💞️ I’m looking to collaborate with anyone, interested in blockchain.
-- 📫 How to reach me jermijwll@gmail.com  +251-949-428-860
+- 💞️ Me and My team working on project called Alkebuna. for more => bit.ly/alkebuna
+- 📫 How to reach me jermijwll@gmail.com 
+
 
 <!---
 jemi2k/jemi2k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
