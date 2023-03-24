@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Alkebuna](https://alkebuna2-00.vercel.app/)
 
-- 🌱 I’m currently learning **Cryptography, Machine learning and Intellignt**
+- 🌱 I’m currently learning **Cryptography, Machine learning and Intelligent**
 
 - 📝 I write articles on [https://jermijwll.wixsite.com/alkebuna/news](https://jermijwll.wixsite.com/alkebuna/news)
 
