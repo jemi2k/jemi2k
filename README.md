@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
 
 <h1 align="center">Hi 👋, I'm Ermias B.</h1>
-<h3 align="center">Aspiring visionary with a passion for exploring the potential of emerging technologies, particularly in the realm of blockchain development.</h3>
+<h3 align="center">Aspiring visionary with a passion for exploring the potential of emerging technologies, particularly in the realm of blockchain and cloud computing development.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
 <p align="left"> <a href="https://twitter.com/jermi_2k" target="blank"><img src="https://img.shields.io/twitter/follow/jermi_2k?logo=twitter&style=for-the-badge" alt="jermi_2k" /></a> </p>
 
