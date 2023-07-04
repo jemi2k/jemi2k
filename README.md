@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
 <p align="left"> <a href="https://twitter.com/jermi_2k" target="blank"><img src="https://img.shields.io/twitter/follow/jermi_2k?logo=twitter&style=for-the-badge" alt="jermi_2k" /></a> </p>
 
-- 🔭 I’m currently working on [Alkebuna](https://alkebuna2-00.vercel.app/)
+- 🔭 I’m currently working on [Alkebuna](https://dmarket.vercel.app/)
 
 - 🌱 I’m currently learning **Cloud Computing, Machine learning and Intelligent**
 
