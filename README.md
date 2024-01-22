@@ -6,9 +6,7 @@
 <p align="left"> <a href="https://x.com/ErmiasBeke55881" target="blank"><img src="https://img.shields.io/twitter/follow/jermi_2k?logo=twitter&style=for-the-badge" alt="jermi_2k" /></a> </p>
 
 
-- 💬 Ask me about Blockchain, Crypto, NFT,
-
-- 📫 How to reach me **jermijwll@gmail.com**
+📫 How to reach me **jermijwll@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
