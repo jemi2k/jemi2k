@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://x.com/ErmiasBeke55881" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ErmiasBeke55881" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jermi2k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jermi2k" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ermiasbe/" target="blank"><img align="center" src="https://en.m.wikipedia.org/wiki/File:LinkedIn_logo_initials.png" alt="bit.ly/alkebuna" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ermiasbe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="bit.ly/alkebuna" height="30" width="40" /></a>
 </p>
 
 <!--
