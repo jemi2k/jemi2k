@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Ermias B.</h1>
-<h3 align="center">Aspiring visionary with a passion for exploring the potential of emerging technologies, particularly in the realm of blockchain development.</h3>
+<h3 align="center">Xplorer the untapped possibilities of emerging technologies, with a keen focus on blockchain development. #visionary #web3Enthusiast </h3>
 
 <!--
 <p align="left"> <a href="https://x.com/ErmiasBeke55881" target="blank"><img src="https://img.shields.io/twitter/follow/jermi_2k?logo=twitter&style=for-the-badge" alt="jermi_2k" /></a> </p>
