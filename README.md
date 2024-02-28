@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hello 👋, I'm Ermias B.</h1>
+<h1 align="center">Hello, I'm Ermias B.</h1>
 <h3 align="center">Xplorer the untapped possibilities of emerging technologies, with a keen focus on blockchain development. #visionary </h3>
 
 <!--
