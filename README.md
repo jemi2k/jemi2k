@@ -1,33 +1,29 @@
 
 
-<h2 align="">Hello, I'm Ermias B.</h2>
-<h3 align=""> Software Engineer | Web3 & AI Focused Exploring the intersection of decentralized protocols and privacy-preserving AI. </h3>
+<h2 align="left">Hello, I'm Ermias B.</h2>
+<h3 align="left">Software Engineer | Web3 & AI Focused Exploring the intersection of decentralized protocols and privacy-preserving AI.</h3>
 
-<!--
-<p align="left"> <a href="https://x.com/ErmiasBeke55881" target="blank"><img src="https://img.shields.io/twitter/follow/jermi_2k?logo=twitter&style=for-the-badge" alt="jermi_2k" /></a> </p>
--->
+<h3 align="left">Focus Areas</h3>
 
-<h3 align="left"> Focus Areas </h3>
-Web3 Privacy: Implementing ZKP-based Decentralized Identity (DID) and Sybil resistance layers.
+**Web3 Privacy:** Implementing ZKP-based Decentralized Identity (DID) and Sybil resistance layers.
 
-AI Infrastructure: Aligning Federated Learning workflows with encrypted parameter exchange.
+**AI Infrastructure:** Aligning Federated Learning workflows with encrypted parameter exchange.
 
-Decentralized Protocols: Building secure, incentivized participation models for AI services.
+**Decentralized Protocols:** Building secure, incentivized participation models for AI services.
 
-<h3 align="left">Tech Stack </h3>
-Languages & Frameworks: Python (PyTorch), Solidity (Foundry, Hardhat), React.js, Flask, FastAPI.
+<h3 align="left">Tech Stack</h3>
 
-Web3: ethers.js, ZKP-based Identity Protocols.
+* **Languages & Frameworks:** Python (PyTorch), Solidity (Foundry, Hardhat), React.js, Flask, FastAPI.
+* **Web3:** ethers.js, ZKP-based Identity Protocols.
+* **AI/ML & DevOps:** Fine-Tuning, MLOps, AWS SageMaker, Docker, CI/CD.
+* **Systems:** RESTful APIs, Microservices, Backend Engineering, Git.
 
-AI/ML & DevOps: Fine-Tuning, MLOps, AWS SageMaker, Docker, CI/CD.
-
-Systems: RESTful APIs, Microservices, Backend Engineering, Git.
-
-How to reach me **ermiasbe490@gmail.com**
+How to reach me: **ermiasbe490@gmail.com**
 
 <h3 align="left">Connect with me. New account:</h3>
 <p align="left">
 <a href="https://x.com/ErmiasBeke55881" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ErmiasBeke55881" height="30" width="40" /></a>
+</p>
 <!--  
 <a href="https://www.leetcode.com/jermi2k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jermi2k" height="30" width="40" /></a> -->
 <!--
