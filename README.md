@@ -1,14 +1,29 @@
 
 
 <h2 align="">Hello, I'm Ermias B.</h2>
-<h3 align="">Xplorer the untapped possibilities of emerging technologies, with a keen focus on blockchain development. #visionary </h3>
+<h3 align=""> Software Engineer | Web3 & AI Focused Exploring the intersection of decentralized protocols and privacy-preserving AI. </h3>
 
 <!--
 <p align="left"> <a href="https://x.com/ErmiasBeke55881" target="blank"><img src="https://img.shields.io/twitter/follow/jermi_2k?logo=twitter&style=for-the-badge" alt="jermi_2k" /></a> </p>
 -->
 
+<h3 align="left"> Focus Areas </h3>
+Web3 Privacy: Implementing ZKP-based Decentralized Identity (DID) and Sybil resistance layers.
 
-How to reach me **jermijwll@gmail.com**
+AI Infrastructure: Aligning Federated Learning workflows with encrypted parameter exchange.
+
+Decentralized Protocols: Building secure, incentivized participation models for AI services.
+
+<h3 align="left">Tech Stack </h3>
+Languages & Frameworks: Python (PyTorch), Solidity (Foundry, Hardhat), React.js, Flask, FastAPI.
+
+Web3: ethers.js, ZKP-based Identity Protocols.
+
+AI/ML & DevOps: Fine-Tuning, MLOps, AWS SageMaker, Docker, CI/CD.
+
+Systems: RESTful APIs, Microservices, Backend Engineering, Git.
+
+How to reach me **ermiasbe490@gmail.com**
 
 <h3 align="left">Connect with me. New account:</h3>
 <p align="left">
