@@ -1,31 +1,29 @@
+<h2 align="left">Hey, i am Ermias B. </h2>
 
+<h3 align="left">Software Engineer | ML | Quant </h3>
 
-<h2 align="left">Hello, I'm Ermias B.</h2>
-<h3 align="left">Software Engineer | Web3 & AI Focused Exploring the intersection of decentralized protocols and privacy-preserving AI.</h3>
+I am a software engineer focused on backend engineering, data pipelines, and machine learning systems. Currently completing my Master's research while building data-driven AI applications, with practical experience integrating Web3 technologies.
 
-<h3 align="left">Focus Areas</h3>
+---
 
-**Web3 Privacy:** Implementing ZKP-based Decentralized Identity (DID) and Sybil resistance layers.
+### 💻 What I'm Building & Researching Right Now
 
-**AI Infrastructure:** Aligning Federated Learning workflows with encrypted parameter exchange.
+*   **Quantitative ML Pipelines:** Developing an Attention-LSTM neural network with CVaR (Conditional Value at Risk) optimization to model downside risk and asset pricing for APAC equities.
+*   **Backend & Data Engineering:** Designing scalable APIs, microservices, and database layers for data-intensive software applications.
+*   **Privacy-Preserving AI:** Working on machine learning architectures, including Federated Learning frameworks with encrypted parameter sharing.
 
-**Decentralized Protocols:** Building secure, incentivized participation models for AI services.
+---
 
-<h3 align="left">Tech Stack</h3>
+### 🛠️ Tech Stack
 
-* **Languages & Frameworks:** Python (PyTorch), Solidity (Foundry, Hardhat), React.js, Flask, FastAPI.
-* **Web3:** ethers.js, ZKP-based Identity Protocols.
-* **AI/ML & DevOps:** Fine-Tuning, MLOps, AWS SageMaker, Docker, CI/CD.
-* **Systems:** RESTful APIs, Microservices, Backend Engineering, Git.
+*   **Languages:** Python, Solidity, JavaScript, SQL
+*   **Frameworks & Libraries:** PyTorch, FastAPI, Flask, React.js
+*   **Web3 & Tools:** Foundry, Hardhat, Ethers.js
+*   **DevOps & Cloud:** AWS SageMaker, Docker, CI/CD, Git
 
-How to reach me: **ermiasbe490@gmail.com**
+---
 
-<h3 align="left">Connect with me. New account:</h3>
-<p align="left">
-<a href="https://x.com/ErmiasBeke55881" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ErmiasBeke55881" height="30" width="40" /></a>
-</p>
-<!--  
-<a href="https://www.leetcode.com/jermi2k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jermi2k" height="30" width="40" /></a> -->
-<!--
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bo" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p> -->
+### 📬 Contact
+
+*   **Email:** ermiasbe490@gmail.com
+*   **X (Twitter):** [@ErmiasBeke55881](https://x.com/ErmiasBeke55881)
