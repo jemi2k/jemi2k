@@ -6,7 +6,7 @@ I am a software engineer focused on backend engineering, data pipelines, and mac
 
 ---
 
-### 💻 What I'm Building & Researching Right Now
+### 💻 Current Focus Area
 
 *   **Quantitative ML Pipelines:** Developing an Attention-LSTM neural network with CVaR (Conditional Value at Risk) optimization to model downside risk and asset pricing for APAC equities.
 *   **Backend & Data Engineering:** Designing scalable APIs, microservices, and database layers for data-intensive software applications.
